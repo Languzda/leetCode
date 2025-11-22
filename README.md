@@ -4,8 +4,8 @@ Moja kolekcja rozwiązań zadań z LeetCode napisana w TypeScript.
 
 ## 📊 Statystyki
 
-- **Rozwiązane problemy**: 1
-- **Easy**: 1
+- **Rozwiązane problemy**: 2
+- **Easy**: 2
 - **Medium**: 0
 - **Hard**: 0
 
@@ -14,6 +14,7 @@ Moja kolekcja rozwiązań zadań z LeetCode napisana w TypeScript.
 | # | Problem | Difficulty | Tags | Solution | Tests |
 |---|---------|------------|------|----------|-------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `Array`, `Hash Table` | [📄](TS/problems/0001-two-sum/solution.ts) | [🧪](TS/problems/0001-two-sum/solution.test.ts) |
+| 1929 | [Concatenation Of Array](https://leetcode.com/problems/concatenation-of-array/) | 🟢 Easy | `Array` | [📄](TS/problems/1929-concatenation-of-array/solution.ts) | [🧪](TS/problems/1929-concatenation-of-array/solution.test.ts) |
 
 
 ## 🏗️ Struktura Projektu
