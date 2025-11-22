@@ -1,0 +1,28 @@
+{
+  "name": "leetcode-typescript",
+  "version": "1.0.0",
+  "description": "LeetCode solutions in TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx",
+    "run": "tsx",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:ui": "vitest --ui",
+    "new-problem": "node scripts/create-problem.js"
+  },
+  "keywords": [
+    "leetcode",
+    "typescript",
+    "algorithms"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.9.0",
+    "@vitest/ui": "^1.6.1",
+    "tsx": "^4.6.0",
+    "typescript": "^5.2.2",
+    "vitest": "^1.6.1"
+  }
+}

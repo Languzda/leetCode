@@ -1,0 +1,19 @@
+{
+  "name": "leetcode-solutions",
+  "version": "1.0.0",
+  "description": "My LeetCode solutions collection",
+  "scripts": {
+    "update-readme": "node scripts/update-readme.js",
+    "remove-problem": "node scripts/remove-problem.js",
+    "dev": "cd TS && npm run dev",
+    "test": "cd TS && npm test",
+    "new-problem": "cd TS && npm run new-problem"
+  },
+  "keywords": [
+    "leetcode",
+    "algorithms",
+    "data-structures"
+  ],
+  "author": "",
+  "license": "MIT"
+}
