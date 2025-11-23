@@ -4,8 +4,8 @@ Moja kolekcja rozwiązań zadań z LeetCode napisana w TypeScript.
 
 ## 📊 Statystyki
 
-- **Rozwiązane problemy**: 2
-- **Easy**: 2
+- **Rozwiązane problemy**: 3
+- **Easy**: 3
 - **Medium**: 0
 - **Hard**: 0
 
@@ -14,6 +14,7 @@ Moja kolekcja rozwiązań zadań z LeetCode napisana w TypeScript.
 | # | Problem | Difficulty | Tags | Solution | Tests |
 |---|---------|------------|------|----------|-------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `Array`, `Hash Table` | [📄](TS/problems/0001-two-sum/solution.ts) | [🧪](TS/problems/0001-two-sum/solution.test.ts) |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | `[Math]` | [📄](TS/problems/0009-palindrome-number/solution.ts) | [🧪](TS/problems/0009-palindrome-number/solution.test.ts) |
 | 1929 | [Concatenation Of Array](https://leetcode.com/problems/concatenation-of-array/) | 🟢 Easy | `Array` | [📄](TS/problems/1929-concatenation-of-array/solution.ts) | [🧪](TS/problems/1929-concatenation-of-array/solution.test.ts) |
 
 
