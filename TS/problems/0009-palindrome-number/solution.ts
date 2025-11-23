@@ -9,11 +9,7 @@
  */
 
 export function solution(x: number): boolean {
-  const numString = x.toString();
-  for (let i = 0; i <= numString.length / 2; i++) {
-    if (numString[i] != numString[numString.length - 1 - i]) return false;
-  }
-  return true;
+  return String(x) == String(x).split("").reverse().join("");
 }
 
 // Run only when executed directly
